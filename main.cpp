@@ -22,6 +22,7 @@ class Pojazd {
       Kolor = "def";
       Marka = "def";
       Model = "def";
+      BlaBal = "ada";
     }
 
     Pojazd(const string & Kolor_, const string & Marka_, const string & Model_)
